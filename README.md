@@ -11,14 +11,14 @@
 
 ## Índice
 
-1. [Introdução](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-2. [Objetivos](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-3. [Instalação](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-4. [Configuração](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-5. [Novo Projeto](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-6. [Registo de Alterações](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-7. [Ramos e Histórico de Alterações](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-8. [Colaboração e Repositórios Remotos](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
+1. [Introdução](#introdução)
+2. [Objetivos](#objetivos)
+3. [Instalação](#instalação)
+4. [Configuração](#configuração)
+5. [Novo Projeto](#novo-projeto)
+6. [Registo de Alterações](#registo-de-alterações)
+7. [Ramos e Histórico de Alterações](#ramos-e-histórico-de-alterações)
+8. [Colaboração e Repositórios Remotos](#colaboração-e-repositórios-remotos)
 
 ## Introdução
 
