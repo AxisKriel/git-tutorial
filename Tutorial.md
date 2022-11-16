@@ -9,9 +9,6 @@
 > Rodrigo Rente <rodrigo.rente@estudantes.ips.pt>
 > 
 
-> [Versão Online do Tutorial](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
-> 
-
 ## Índice
 
 1. [Introdução](https://www.notion.so/Git-Tutorial-086b5f36dfca49139549b3eaf1d3dacd)
